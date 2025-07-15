@@ -17,9 +17,8 @@ It features a clean layout, stylish animations, and adapts to all screen sizes.
 
 ## 📱 Live Demo
 
-👉 [Click here to view the project live]((https://mohamed12511.github.io/HTML-AND-CSS-Projects-2/))
+👉 [Click here to view the project live](https://mohamed12511.github.io/HTML-AND-CSS-Projects-2/)
 
----
 
 ## 🧠 What I Learned / Fixed
 
