@@ -92,7 +92,6 @@ body:after{
 .img {
   width: 240px; 
 }
-
 .img img {
   width: 100%;
 }
@@ -155,6 +154,18 @@ section p{
   bottom: 20px;
   width: 180px; 
 }
+.img img {
+  width: 100%;
+}
+
+section h2{
+ font-size:23px;
+}
+section p{
+  font-weight: 700;
+  margin-right:10px;
+}
+
 .img img {
   width: 100%;
 }
